@@ -24,7 +24,7 @@ Lab works from the LTU course System Identification R7015E.
   - This work aims to find a model for the engine speed of a wheel loader using a small dataset of time-series data of various variables (features), not all of which may be relevant towards predicting the required engine speed. In the end, it turns out that a model with very few input features can still produce a significantly representative prediction model. Learned how to approach a black-box identification problem and use MATLAB-implemented tools - both using a graphical user interface (GUI) toolbox and the command-line interface (CLI) - to solve it, as well as perform basic dimensionality reduction tasks.
 
 
-[Lab1: Kalman vs. Luenberger]: https://github.com/pabsan-0/system-identification-R7015E/tree/main/Lab1
-[Lab2: Successes and pitfalls of frequency-domain identification methods]: https://github.com/pabsan-0/system-identification-R7015E/tree/main/Lab2
-[Lab3: ML-based (maximum likelihood) estimation of occupancy patterns]: https://github.com/pabsan-0/system-identification-R7015E/tree/main/Lab3
-[Lab4: Identification of the engine requirements for a wheel loader]: https://github.com/pabsan-0/system-identification-R7015E/tree/main/Lab4
+[Lab1: Kalman vs. Luenberger]:                                             https://github.com/pabsan-0/R7015E-system-identification/tree/main/Lab1
+[Lab2: Successes and pitfalls of frequency-domain identification methods]: https://github.com/pabsan-0/R7015E-system-identification/tree/main/Lab2
+[Lab3: ML-based (maximum likelihood) estimation of occupancy patterns]:    https://github.com/pabsan-0/R7015E-system-identification/tree/main/Lab3
+[Lab4: Identification of the engine requirements for a wheel loader]:      https://github.com/pabsan-0/R7015E-system-identification/tree/main/Lab4
