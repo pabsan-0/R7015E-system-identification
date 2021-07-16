@@ -1,4 +1,4 @@
-# system-identification-R7015E
+# R7015E-system-identification
 
 Files from the lab works from the LTU course System Identification R7015E
 
